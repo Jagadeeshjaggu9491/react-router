@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba639ea7.css",
+    "main.js": "/static/js/main.cb17fa0e.js",
+    "static/media/hero-video.mp4": "/static/media/hero-video.e17918856b410a92a1d6.mp4",
+    "static/media/french-fries.png": "/static/media/french-fries.67be9b875ed71a417660.png",
+    "static/media/burger.png": "/static/media/burger.d74043e3e0987a122655.png",
+    "static/media/long-burger.png": "/static/media/long-burger.f030f2d10a6058b0ebd4.png",
+    "static/media/chicken.png": "/static/media/chicken.82d7d7e57e3cf09a9e11.png",
+    "static/media/pizza.png": "/static/media/pizza.337d545890137ba64d32.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/hotel-logo.png": "/static/media/hotel-logo.f27721ca6abf2e03afcf.png",
+    "index.html": "/index.html",
+    "main.ba639ea7.css.map": "/static/css/main.ba639ea7.css.map",
+    "main.cb17fa0e.js.map": "/static/js/main.cb17fa0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba639ea7.css",
+    "static/js/main.cb17fa0e.js"
+  ]
+}
